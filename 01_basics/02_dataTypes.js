@@ -3,9 +3,9 @@
 // alert (3 + 3) we are using nodejs, not brower
 
 
-let name = "Atiq Ur Rehman"
-let age = 18
-let isLoggedIn = false
+let name = "Atiq Ur Rehman";
+let age = 18;
+let isLoggedIn = false;
 let state;
 
 //number => to power 53 
